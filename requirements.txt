@@ -1,0 +1,4 @@
+Flask
+keybert
+sentence-transformers
+scikit-learn
